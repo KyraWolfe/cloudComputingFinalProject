@@ -1,9 +1,9 @@
 # cloudComputingFinalProject
 
-#Networking and Security
+# Networking and Security
 
-#Compute and Frontend
+# Compute and Frontend
 
-#Database and Backend Integration
+# Database and Backend Integration
 
-#Monitoring, Logging, and Cost Optimazation
+# Monitoring, Logging, and Cost Optimazation
