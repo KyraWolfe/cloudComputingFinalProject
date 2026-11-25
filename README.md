@@ -2,7 +2,8 @@
 - group members: Naina and Kyra
 - Naina: Networking and Security, Database and Backend Integration
 - Kyra: Compute and Frontend, Monitoring Logging and Cost Optimization
-- to keep all parts of the project together, all work was done on Naina's learner's lab. We met up in person to discuss the separation of work and for Kyra to do her parts on Naina's device since all the parts are connected to the first section, which was done by Naina. Any extra steps needed after the meetups, Naina handled. To balance the workload a bit more, Kyra set up more of the foundations on the reports and did most of the slideshow, leaving Naina to fill in her steps or add any additional information that Kyra missed. 
+- to keep all parts of the project together, all work was done on Naina's learner's lab. We met up in person to discuss the separation of work and for Kyra to do her parts on Naina's device since all the parts are connected to the first section, which was done by Naina. Any extra steps needed after the meetups, Naina handled. To balance the workload a bit more, Kyra set up more of the foundations on the reports and did most of the slideshow, leaving Naina to fill in her steps or add any additional information that Kyra missed.
+- keeping the entire project on one learner's lab also gave a better idea of how much a project like this would cost
   
 # Networking and Security
 
