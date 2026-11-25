@@ -30,3 +30,14 @@
 - The billing dashboard was viewed often to take note of costs whilst working on this project
 - after combining all parts as best as possible during our first meeting, the cost was about %0.70
 - the next day was when we discovered that the EC2 was still operating after being disabled and this brought charges up to about $1.10
+
+# Slideshow info
+- add notes on what needs to be added to the slides
+- this includes pics, or information
+
+- need to add:
+* naina section notes
+* pictures for all
+* descriptions of each section
+
+- https://canva.link/lltmoz39evlu3sv 
