@@ -26,6 +26,6 @@
 - had some struggles creating this alarm as the EC2 and parts of the first section were slightly configured incorrectly
 - A dashboard of the EC2 running was pulled up to monitor usage
 
--The billing dashboard was viewed often to take note of costs whilst working on this project
--after combining all parts as best as possible during our first meeting, the cost was about %0.70
--the next day was when we discovered that the EC2 was still operating after being disabled and this brought charges up to about $1.10
+- The billing dashboard was viewed often to take note of costs whilst working on this project
+- after combining all parts as best as possible during our first meeting, the cost was about %0.70
+- the next day was when we discovered that the EC2 was still operating after being disabled and this brought charges up to about $1.10
