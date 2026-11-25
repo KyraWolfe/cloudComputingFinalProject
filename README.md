@@ -35,9 +35,9 @@
 - add notes on what needs to be added to the slides
 - this includes pics, or information
 
-- need to add:
-* naina section notes
-* pictures for all
-* descriptions of each section
+# need to add:
+- naina section notes
+- pictures for all
+- descriptions of each section
 
 - https://canva.link/lltmoz39evlu3sv 
